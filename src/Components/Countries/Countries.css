@@ -1,0 +1,17 @@
+.countries-style{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin: 15px;
+}
+.country-visited{
+  background-color: aqua;
+}
+.btn{
+  margin-top: 20px;
+  padding: 10px;
+  color: black;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+}

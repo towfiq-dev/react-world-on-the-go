@@ -8,3 +8,7 @@
   font-weight: bold;
   color: black;
 }
+.country-style img{
+  width: 300px;
+  height: 150px;
+}

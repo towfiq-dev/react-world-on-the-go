@@ -15,3 +15,13 @@
   border-radius: 8px;
   cursor: pointer;
 }
+.flags{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 15px;
+  margin: 15px;
+}
+.flags img{
+  width: 200px;
+  height: 100px;
+}
